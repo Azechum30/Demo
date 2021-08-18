@@ -14,3 +14,6 @@ that are working in teams are able keep track of the contributions of each devel
 
 
 ## What then is the difference between Git and Github?
+
+The is difference between the git and github is that git is a version control system whilst github
+is a website that stores your git repositories or projects.
